@@ -3,6 +3,7 @@ Simple utility to send Sonos events (volume changes, track changes, track inform
 
 What's that? You haven't got a Web API to send this info to? Go here, for a simple API with a web socket implementation for real time updates.
 
+![My image](conradj.github.com/repository/images/sonos.gif)
 
 /// TODO
 - Manage multiple rooms and groups
