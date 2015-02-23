@@ -10,9 +10,5 @@ This shows me changing the volume on a Sonos client and viewing the change on a 
 
 /// TODO
 - Manage multiple rooms and groups
-- Error handling for radio streams etc
-- Error handling for no server available
 - Send loads more track and room info
-- Do this properly http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
-    - With this https://github.com/audreyr/cookiecutter-pypackage
-- Maybe async will stop the jerkyness? http://aiohttp.readthedocs.org/en/v0.14.4/
+- Fix issues
