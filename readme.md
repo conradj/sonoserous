@@ -14,8 +14,10 @@ Uses https://github.com/SoCo/SoCo to do all of the hard work
 /// TODO
 - Vol slider on Mac OSX Sonos controller seems affected by something in this code. Not sure if it's something I cna fix. Doesn't happen on Android controller...
 - Manage multiple rooms and groups
-- Error handling for radio streams etc
-- Error handling for no server available
 - Send loads more track and room info
+<<<<<<< HEAD
 - Make project properly http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
     - With this https://github.com/audreyr/cookiecutter-pypackage
+=======
+- Fix issues
+>>>>>>> origin/master
