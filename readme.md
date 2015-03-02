@@ -16,4 +16,4 @@ Uses https://github.com/SoCo/SoCo to do all of the hard work
 - Send loads more track and room info
 - Make project properly http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
     - With this https://github.com/audreyr/cookiecutter-pypackage
-- Fix [issues](/issues)
+- Fix [issues](https://github.com/conradj/sonoserous/issues)
